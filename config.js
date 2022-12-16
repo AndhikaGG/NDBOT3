@@ -14,35 +14,35 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
-global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
-global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
-global.socialm = "https://github.com/AnggaXyzZ" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
-global.location = "Banten" //ur location
+global.vcardowner = ['6285749618902'] //ur owner number
+global.ownername = "𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗚𝗮𝗻𝘇𝘇" //ur owner name
+global.developer = "𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗚𝗮𝗻𝘇𝘇" //nama lu
+global.ytname = "https://youtube.com/@AndhikaGG" //ur yt chanel name
+global.socialm = "https://tiktok.com/@andhikagg" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/ERvHAXea3Ta6GoOt34MzlZ"
+global.location = "Mojokerto" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
-global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
+global.owner = ['6285749618902'] //ur number
+global.ownernomer = "6285749618902" //ur number
+global.ownertag = '6285749618902' //ur tag number
+global.premium = ['6285749618902'] //ur premium number
+global.botname = '𝗡𝗗 𝗕𝗼𝘁𝘇' //ur bot name
+global.ownername = "𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗚𝗮𝗻𝘇𝘇"
+global.linkz = "https://tiktok.com/@andhikagg" //your theme url which will be displayed on whatsapp
+global.dana = "6285749618902"
+global.gopay = "6285749618902"
+global.pulsa = "6285749618902"
+global.websitex = "https://youtube.com/@AndhikaGG" //ur website to be displayed
+global.websitex1 = "https://tiktok.com/@andhikagg"
 global.botscript = 'https://github.com/AnggaXyzZ' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.packname = "ND Botz" //ur sticker watermark packname
+global.author = "𝗡𝗗 𝗕𝗼𝘁𝘇" //ur sticker watermark author
+global.wm = "𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗚𝗮𝗻𝘇𝘇" //ur watermark
 
 // Other
-global.sessionName = 'Session'
+global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
@@ -54,7 +54,7 @@ global.mess = {
     group: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘋𝘪 𝘨𝘶𝘯𝘢𝘬𝘢𝘯 𝘋𝘪 𝘎𝘳𝘰𝘶𝘱',
     private: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘋𝘪 𝘊𝘩𝘢𝘵 𝘗𝘳𝘪𝘷𝘢𝘵𝘦!',
     bot: '𝘉𝘰𝘵 𝘖𝘯𝘭𝘺!',
-    wait: '𝘞𝘢𝘪𝘵 𝘚𝘦𝘥𝘢𝘯𝘨 𝘋𝘪 𝘗𝘳𝘰𝘴𝘦𝘴....',    linkm: 'Where is the link?',
+    wait: '𝘞𝘢𝘪𝘵 𝘚𝘦𝘥𝘢𝘯𝘨 𝘋𝘪 𝘗𝘳𝘰𝘴𝘦𝘴....',    linkm: 'Mana linknya?',
     endLimit: '𝘓𝘪𝘮𝘪𝘵 𝘈𝘬𝘢𝘯 𝘋𝘪 𝘳𝘦𝘴𝘦𝘵 12 𝘏𝘢𝘳𝘪',
     nsfw: '𝘍𝘪𝘵𝘶𝘳 𝘕𝘴𝘧𝘸 𝘉𝘦𝘭𝘶𝘮 𝘋𝘪 𝘢𝘬𝘵𝘪𝘧𝘬𝘢𝘯 𝘖𝘭𝘦𝘩 𝘈𝘥𝘮𝘪𝘯',
 }
@@ -62,10 +62,10 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Media/theme/jarot.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Media/theme/Logo.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Media/theme/Logo.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Media/theme/Error.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Media/theme/Logo.jpg") //ur thumb pic
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
